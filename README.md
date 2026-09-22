@@ -11,7 +11,7 @@
 | :--- | :--- | :--- |
 | 🚲 **[Bake Sales Analysis](https://github.com/jaroslav200720072007-beep/bake-sales-analysis)** | SQL, Excel, Tableau | Комплексний аналіз продажів велосипедів, сегментація та інтерактивний дашборд. |
 | 🚗 **[Uber Data Analysis](https://github.com/jaroslav200720072007-beep/uber-data-analysis)** | Python, Pandas, Tableau | Дослідження паттернів поїздок Uber, виявлення пікових годин та популярних маршрутів. |
-| 🎮 **[Video Games Sales](https://github.com/jaroslav200720072007-beep/VideoGameSales)** | Python, Pandas, Seaborn | Розширений EDA аналіз світових продажів відеоігор за жанрами та платформами. |
+| 🎮 **[Video Games Sales](https://github.com/jaroslav200720072007-beep/VideoGamesSales)** | Python, Pandas, Seaborn | Розширений EDA аналіз світових продажів відеоігор за жанрами та платформами. | Python, Pandas, Seaborn | Розширений EDA аналіз світових продажів відеоігор за жанрами та платформами. |
 | 🍕 **[Swiggy Data Analysis](https://github.com/jaroslav200720072007-beep/swiggy-data-analysis-python)** | Python, DuckDB, SQL | Аналіз ресторанного бізнесу та доставок їжі на основі реального датасету. |
 | 💎 **[World's Billionaires Dashboard](https://github.com/jaroslav200720072007-beep/World-s-Billionaires-Data-Analysis-Dashboard)** | Excel, Pivot Tables | Інтерактивний дашборд розподілу статків та капіталу мільярдерів світу. |
 
