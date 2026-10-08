@@ -26,7 +26,7 @@
 | 📈 **[Regression ML Models](https://github.com/jaroslav200720072007-beep/regression-ml-models)** | Python, Scikit-Learn | Побудова та порівняння лінійних, поліноміальних та логістичних моделей регресії. |
 | 🧩 **[Unsupervised Learning](https://github.com/jaroslav200720072007-beep/unsupervised_learning-segmentation)** | Python, Scikit-Learn | Навчання без учителя: сегментація даних (K-Means, DBSCAN, PCA, t-SNE). |
 | 🧠 **[PyTorch Neural Networks](https://github.com/jaroslav200720072007-beep/pytorch_neural_networks)** | PyTorch, Python | Реалізація нейронних мереж, кастомних циклів навчання (training loops) та оптимізаторів. |
-| 🩺 **[Medical Costs Prediction](https://github.com/jaroslav200720072007-beep/medical-costs-prediction-pytorch)** | PyTorch, Python, Pandas | Регресія на PyTorch: прогнозування медичних витрат, масштабування даних та Adam оптимізація. || 🖼️ [CIFAR-10 Image Classifier](https://github.com/jaroslav200720072007-beep/cifar10-image-classification-pytorch) | PyTorch, torchvision | Мультикласова класифікація зображень на CIFAR-10 повнозв'язною нейромережею (MLP) |
+| 🩺 **[Medical Costs Prediction](https://github.com/jaroslav200720072007-beep/medical-costs-prediction-pytorch)** | PyTorch, Python, Pandas | Регресія на PyTorch: прогнозування медичних витрат, масштабування даних та Adam оптимізація. | 🖼️ **[CIFAR-10 Image Classifier](https://github.com/jaroslav200720072007-beep/cifar10-image-classification-pytorch)** | PyTorch, torchvision | Мультикласова класифікація зображень на CIFAR-10 повнозв'язною нейромережею (MLP) |
 
 ---
 
