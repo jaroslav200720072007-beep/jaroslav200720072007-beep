@@ -9,6 +9,7 @@
 
 | Проєкт | Стек технологій | Короткий опис |
 | :--- | :--- | :--- |
+| 🛒 **[Orders Data Analysis](https://github.com/jaroslav200720072007-beep/Orders_Data_Analysis)** | Python, Pandas, Matplotlib, Seaborn, SQL (SQLite) | Аналіз клієнтів на ринку США по категоріях товарів: очищення даних, розрахунок знижок і прибутку, візуалізація та SQL-аналітика (віконні функції, порівняння продажів 2022 vs 2023). |
 | 🚲 **[Bake Sales Analysis](https://github.com/jaroslav200720072007-beep/bake-sales-analysis)** | SQL, Excel, Tableau | Комплексний аналіз продажів велосипедів, сегментація та інтерактивний дашборд. |
 | 🚗 **[Uber Data Analysis](https://github.com/jaroslav200720072007-beep/uber-data-analysis)** | SQL, Tableau | Дослідження паттернів поїздок Uber, виявлення пікових годин та популярних маршрутів. |
 | 🎮 **[Video Games Sales](https://github.com/jaroslav200720072007-beep/VideoGamesSales)** | Python, Numpy, Pandas, Matplotlib, Seaborn | Розширений EDA аналіз світових продажів відеоігор за жанрами та платформами. | Python, Pandas, Seaborn | Розширений EDA аналіз світових продажів відеоігор за жанрами та платформами. |
