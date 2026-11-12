@@ -23,7 +23,8 @@
 
 | Проєкт | Стек технологій | Короткий опис |
 | :--- | :--- | :--- |
-| 🚚 **[Olist Delivery Delay Prediction](https://github.com/jaroslav200720072007-beep/Prediction-with-Random-Forest)** | Python, Scikit-Learn, Pandas, NumPy| Прогнозування затримок доставки (`is_late`) на даних e-commerce Olist за допомогою Random Forest та підбору найкращих параметрів GridSearchCV. |
+| 🚀 **[Gradient Boosting from Scratch](https://github.com/jaroslav200720072007-beep/gradient-boosting-from-scratch)** | Python, NumPy, Scikit-Learn, XGBoost, CatBoost | Регресійний пайплайн прогнозування щомісячних платежів телеком-клієнтів за допомогою власної реалізації градієнтного бустингу з нуля та порівняння з XGBoost і CatBoost. |
+| 🚚 **[Olist Delivery Delay Prediction](https://github.com/jaroslav200720072007-beep/Prediction-with-Random-Forest)** | Python, Scikit-Learn, Pandas, NumPy, Kagglehub | Прогнозування затримок доставки (`is_late`) на даних e-commerce Olist за допомогою Random Forest та GridSearchCV. |
 | 🎯 **[Classification ML Models](https://github.com/jaroslav200720072007-beep/classification_ml_models)** | Python, Scikit-Learn | Порівняння алгоритмів класифікації (Logistic Regression, Decision Trees, SVM тощо). |
 | 📈 **[Regression ML Models](https://github.com/jaroslav200720072007-beep/regression-ml-models)** | Python, Scikit-Learn | Побудова та порівняння лінійних, поліноміальних та логістичних моделей регресії. |
 | 🧩 **[Unsupervised Learning](https://github.com/jaroslav200720072007-beep/unsupervised_learning-segmentation)** | Python, Scikit-Learn | Навчання без учителя: сегментація даних (K-Means, Mean-Shift, DBSCAN, PCA). |
