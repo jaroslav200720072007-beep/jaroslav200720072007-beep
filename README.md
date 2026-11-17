@@ -24,6 +24,7 @@
 
 | Проєкт | Стек технологій | Короткий опис |
 | :--- | :--- | :--- |
+| 💳 **[Credit Scoring & Metrics from Scratch](https://github.com/jaroslav200720072007-beep/Credit-Scoring-Classification-Metrics-from-Scratch)** | Python, NumPy, Pandas, Scikit-Learn | Бінарна класифікація для оцінки ризиків у банківському кредитному скорингу на базі Logistic Regression із власноруч реалізованими з нуля метриками якості (Accuracy, Precision, Recall, F1-Score). |
 | 🚀 **[Gradient Boosting from Scratch](https://github.com/jaroslav200720072007-beep/gradient-boosting-from-scratch)** | Python, NumPy, Scikit-Learn, XGBoost, CatBoost | Регресійний пайплайн прогнозування щомісячних платежів телеком-клієнтів за допомогою власної реалізації градієнтного бустингу з нуля та порівняння з XGBoost і CatBoost. |
 | 🚚 **[Olist Delivery Delay Prediction](https://github.com/jaroslav200720072007-beep/Prediction-with-Random-Forest)** | Python, Scikit-Learn, Pandas, NumPy, Kagglehub | Прогнозування затримок доставки (`is_late`) на даних e-commerce Olist за допомогою Random Forest та GridSearchCV. |
 | 🎯 **[Classification ML Models](https://github.com/jaroslav200720072007-beep/classification_ml_models)** | Python, Scikit-Learn | Порівняння алгоритмів класифікації (Logistic Regression, Decision Trees, SVM тощо). |
