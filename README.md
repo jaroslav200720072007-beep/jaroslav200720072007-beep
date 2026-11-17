@@ -24,7 +24,7 @@
 
 | Проєкт | Стек технологій | Короткий опис |
 | :--- | :--- | :--- |
-| 👕 **[FashionMNIST Image Classifier](https://github.com/jaroslav200720072007-beep/fashion-mnist-classifier)** | PyTorch, Python, torchvision, Matplotlib | Мультикласова класифікація 10 категорій одягу на датасеті Fashion-MNIST за допомогою багатошарового перцептрону (MLP) із повним циклом навчання, збереження та інференсу моделі. |
+| 👕 **[FashionMNIST Image Classifier](https://github.com/jaroslav200720072007-beep/fashion-mnist-classifier)** | PyTorch, Python, torchvision | Мультикласова класифікація 10 категорій одягу на датасеті Fashion-MNIST за допомогою багатошарового перцептрону (MLP) із повним циклом навчання, збереження та інференсу моделі. |
 | 💳 **[Credit Scoring & Metrics from Scratch](https://github.com/jaroslav200720072007-beep/Credit-Scoring-Classification-Metrics-from-Scratch)** | Python, NumPy, Pandas, Scikit-Learn | Бінарна класифікація для оцінки ризиків у банківському кредитному скорингу на базі Logistic Regression із власноруч реалізованими з нуля метриками якості (Accuracy, Precision, Recall, F1-Score). |
 | 🚀 **[Gradient Boosting from Scratch](https://github.com/jaroslav200720072007-beep/gradient-boosting-from-scratch)** | Python, NumPy, Scikit-Learn, XGBoost, CatBoost | Регресійний пайплайн прогнозування щомісячних платежів телеком-клієнтів за допомогою власної реалізації градієнтного бустингу з нуля та порівняння з XGBoost і CatBoost. |
 | 🚚 **[Olist Delivery Delay Prediction](https://github.com/jaroslav200720072007-beep/Prediction-with-Random-Forest)** | Python, Scikit-Learn, Pandas, NumPy, Kagglehub | Прогнозування затримок доставки (`is_late`) на даних e-commerce Olist за допомогою Random Forest та GridSearchCV. |
